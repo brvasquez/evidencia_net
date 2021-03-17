@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.AssemblyInfo.cs
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\bin\Debug\netcoreapp3.1\evidencia_net1.exe
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\bin\Debug\netcoreapp3.1\evidencia_net1.deps.json
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\bin\Debug\netcoreapp3.1\evidencia_net1.runtimeconfig.json
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\bin\Debug\netcoreapp3.1\evidencia_net1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\bin\Debug\netcoreapp3.1\evidencia_net1.dll
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\bin\Debug\netcoreapp3.1\evidencia_net1.pdb
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.dll
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.pdb
+C:\Users\PC\source\repos\evidencia_net1\evidencia_net1\obj\Debug\netcoreapp3.1\evidencia_net1.genruntimeconfig.cache
